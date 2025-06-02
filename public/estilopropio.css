@@ -1,0 +1,25 @@
+body {
+  background: #f9f5f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #4e342e;
+}
+.text-brown {
+  color: #4e342e;
+}
+.jumbotron {
+  background-color: #ffe0b2;
+}
+.table {
+  background-color: #fff;
+}
+.btn-primary {
+  background-color: #6d4c41;
+  border-color: #6d4c41;
+}
+.btn-primary:hover {
+  background-color: #5d4037;
+  border-color: #5d4037;
+}
+.shadow {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
